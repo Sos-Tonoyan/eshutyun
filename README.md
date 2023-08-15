@@ -1,3 +1,3 @@
 # eshutyun
 
-new repository
+new repo
